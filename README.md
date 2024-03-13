@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://jedisam.github.io/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://jedisam.github.io/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://github.com/Basi10/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://github.com/Basi10/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/basilel-birru-8a6a6019b/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/basilel-birru-8a6a6019b/#gh-dark-mode-only)
