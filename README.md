@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Basilel 👋👋👋 
 
-<!--
-**Basi10/Basi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Generative AI Engineer
 
-Here are some ideas to get you started:
+- 🔭 Check out my Portfolio: [Basi10](https://github.com/Basi10)!
+- 🌱 I’m currently learning Generative AI best practices
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2024 Goals: Get more into open source and contribute to the community
+- ⚡ Fun fact: I love to play football 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://jedisam.github.io/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://jedisam.github.io/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/basilel-birru-8a6a6019b/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/basilel-birru-8a6a6019b/#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;
+[![website](./img/medium-light5.svg)](https://medium.com/@basibirru#gh-light-mode-only)
+[![website](./img/medium-light5.svg)](https://medium.com/@basibirru#gh-dark-mode-only)
+<!-- [![website](./img/medium-dark.svg)](https://medium.com/@yidisam18#gh-dark-mode-only) -->
+
